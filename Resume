@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<title> Amber Yacoub's Resume</title>
+<meta name="viewport" content="widht-device-width, intial-scale=1.0">
+<body style="background-color:#ffff99;">
+<center>
+<h1 style="font-size:300%; color:black;"> AMBER YACOUB</h1>
+<P style="font-size:150%; color:#FFFFFF;"> Online Portfolio</p>
+<img style="width: 200px; Height: 300px; ;" src="https://gdurl.com/D_In">
+</center>
+<button type="button" style="color:#6D9DC5;"onclick="alert('That's great! Give me a call at 858-336-15')">Click here if you're interested in hiring!</button>
+<style>
+table {
+  font-family: Times New Roman;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid groove;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color:#A1C2E2;
+}
+img {
+  width: 120px;
+  height: 120px;
+}
+
+</style>
+<h2>Resume</h2>
+
+<table>
+  <tr>
+  <tr>
+    <td>Skills</td>
+<td>
+    <ul style="list-style-type:circle;color:#FFFFFF;">
+  <li>Typing Speed is 60 WPM with 97% accuracy</li>
+<li>Languages:</li>
+  <ul>
+  <li>Learning Spanish  (Currently in Spanish 7-8)</li>
+  <li>Fluent in Arabic</li> 
+    </ul>
+</td>	
+    </td>
+    <td>Experience</td>
+	 <td>
+	<ul style="list-style-type:circle;color:#FFFFFF;">
+  <li>Chamber Choir for 2 years</li>
+  <li>100 hours of Community Service - </li>
+  <ul style="list-style-type: circle;">
+  <li>Volunteer at Willow Grove Elemntary School - 3-4 hours each event </li>
+  <li>Volunteer at Feeding America - 2 hours each time (I am applying to be a regular volunteer)</li>
+ <li>Link Crew at Westview High School (August 2017 - Present)</li>
+  </ul>
+  <li>Global Point of view:</li>
+<ul>
+<li>Have lived in Germany, Denmark, Israel, and U.S.A</li>
+  <li>Have had personal experiences in over 20 countries</li>
+</ul>
+    </ul>  
+    </td>
+  </tr>
+  <tr>
+    <td>Education</td>
+	<td>
+    <ul style="list-style-type:circle;color:#FFFFFF;">
+  <li>Sundance Elementary School</li>
+  <li>Mesa Verde Middle School</li>
+  <li>Westview High School</li>
+    </ul>
+</td>	
+    </td>
+    <td>Awards</td>
+	<td>
+    <ul style="list-style-type:circle;color:#FFFFFF;">
+  <li>Honor Roll, 2018</li>
+  <li>8th Grade Student of The Year, 2016</li>
+  <li>CSF Recognition, 2018-2019</li>
+  <li>Finalist in DECA (Distribution of Education in Clubs of America) Competitions, 2017 - 2019
+    </ul>  
+	</td>
+    </td>
+  </tr>
+  <tr>
+    <td>Strengths</td>
+	   <td>
+	<ul style="list-style-type:circle;color:#FFFFFF;">
+  <li>Responsible</li>
+  <li>Friendly</li>
+  <li>Hardworking</li>
+<li>Positive</li>
+<li>Motivated</li>
+<li>Learner</li>
+    </td>
+    <td>Weaknesses</td>
+	<td>
+    <ul style="list-style-type:circle;color:#FFFFFF;">
+  <li>Lack of work experience</li>
+    </ul>  
+	</td>
+    </td>
+  </tr>
+    <tr>
+    <td>Extracurricular Activities</td>
+	<td>
+    <ul style="list-style-type:circle;color:#FFFFFF;">
+  <li>Dance</li>
+	    <ul>
+		    <li>Avg. of 15 hours a week</li>    
+	    </ul>
+    </ul>
+</td>	
+    </td>
+    <td>College and Career Goals</td>
+	<td>
+    <ul style="list-style-type:circle;color:#FFFFFF;">
+  <li>UCLA: Medical Major/ Computer Science Major</li>
+  <li>UC Berkley: Medical Major/ Computer Science Major</li>
+  <li>Stanford: Medical Major/ Computer Science Major</li>
+  <li>UCSD: Medical Major/ Computer Science Major</li>
+  <li>Harvaard: Medical Major/ Computer Science Major</li>
+    </ul>  
+	</td>
+  </tr>
+  </tr>
+ </table>
+ 
+<h2>Portfolio</h2>
+<h3>Projects I have worked on:</h3>
+<table>
+	<tr>
+		<tr>
+			<h4>Can You Catch The Book App</h4>
+			<td>
+			<ul>
+				<h5> In this app, I worked with a partner to program a game that was inspired by catching games. The theme of our game was to help the main character collect books to help her study for her AP Exmas. My partner and I used other codes and our own codes to program this game.</h5>
+				<h6>
+				<p><a href="https://studio.code.org/projects/applab/U0LDfyi8HOkboB8E5Ot6PlNdP538MFj_INhyHh-_XmI ">Can You Catch The Book App</a></p>
+				</h6>
+				</td>
+		 <h4>
+<table>
+<tr>
+<tr>
+<td>
+ <ul style="list-style-type:circle;color:#FFFFFF;">
+ <li></li>
+ <li>lol</li>
+ </ul>
+ </td>
+ </tr>
+</tr>
+</table>
+
+<h3>You can contact me through any of these platforms: </h3>
+<table>
+<tr>
+<tr>
+<td>
+<ul> 
+<p><a href="mailto:trinityyacoub@gmail.com">trinityyacoub@gmail.com</a></p>
+</ul>
+</td>
+<td>
+<ul>
+<p><a href="http://www.instagram.com/trinity_s.y">IG: @trinity_s.y</a></p>
+</ul>
+</td>
+<td>
+<ul>
+<p><a href="http://www.snapchat.com/add/tyacoub34">SC: tyacoub34 </a></p>
+</ul>
+</td>
+<td>
+<ul>
+<p><a href="http://linkedin.com/in/trinity-yacoub-312132186">LinkedIn: Trinity Yacoub </a></p>
+</ul>
+</td>
+</tr>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+</body>
+</html>
+
